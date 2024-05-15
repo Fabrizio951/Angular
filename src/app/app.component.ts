@@ -9,8 +9,8 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Nigger';
-  tula = "Negroide";
+  title = 'Angular';
+  tittle = "Hola";
 
   nombre = 'Rodriguez Pablo';
   edad = 40;
